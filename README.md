@@ -10,7 +10,7 @@ The interactive data visualization at the top of this page shows the total numbe
 
 
 ## Data on astronauts
-* astronauts.csv
+astronauts.csv
 * id - row ID
 * number - Astronaut ID
 * name 
@@ -37,11 +37,11 @@ The interactive data visualization at the top of this page shows the total numbe
 
 ## Data on missions
 missions.csv
-ID
-Company name
-Location - Location of launch
-Date - Date and time of launch
-Detail - Full rocket name
-Status Rocket - Status of the rocket
-Cost - Cost of the mission in million $
-Status Mission - Status of the mission
+* ID
+* Company name
+* Location - Location of launch
+* Date - Date and time of launch
+* Detail - Full rocket name
+* Status Rocket - Status of the rocket
+* Cost - Cost of the mission in million $
+* Status Mission - Status of the mission
